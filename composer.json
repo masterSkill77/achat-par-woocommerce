@@ -1,0 +1,16 @@
+{
+  "name": "klayrmont/plugins-test",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "PluginsTest\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Clairmont RAJAONARISON",
+      "email": "clairmont.rajaonarison@gmail.com"
+    }
+  ],
+  "require": {}
+}
